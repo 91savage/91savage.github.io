@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb3projectt=self.webpackChunkweb3projectt||[]).push([[542],{86806:function(n,t,e){e.r(t),e.d(t,{default:function(){return f}});var r,u=e(61681),i=(e(72791),e(30168)),c=e(60954).default.section(r||(r=(0,i.Z)(["\n    width: 100vw;\n    height: 100vh;\n\n    position: relative;\n"]))),l=e(80184),o=function(){return(0,l.jsx)(c,{})},f=function(){return u.Z.getAll()&&u.Z.getAll().forEach((function(n,t){return n.kill()})),(0,l.jsx)(l.Fragment,{children:(0,l.jsx)(o,{})})}}}]);
+//# sourceMappingURL=Gallary.95335709.chunk.js.map
