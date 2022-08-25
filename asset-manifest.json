@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.38a2ec0b.css",
-    "main.js": "/static/js/main.86eecf43.js",
+    "main.js": "/static/js/main.3f13fade.js",
     "static/media/goxo_sing.jpg": "/static/media/goxo_sing.3725600236202ec546e6.jpg",
     "static/media/goxo_pink.jpg": "/static/media/goxo_pink.4138307c5d6d2692adaa.jpg",
     "static/media/main_dark.jpg": "/static/media/main_dark.d5e63d72719966673e7c.jpg",
@@ -36,10 +36,10 @@
     "static/media/carwheel.svg": "/static/media/carwheel.85bca6d44c3b12f22e4e5909784f1daa.svg",
     "index.html": "/index.html",
     "main.38a2ec0b.css.map": "/static/css/main.38a2ec0b.css.map",
-    "main.86eecf43.js.map": "/static/js/main.86eecf43.js.map"
+    "main.3f13fade.js.map": "/static/js/main.3f13fade.js.map"
   },
   "entrypoints": [
     "static/css/main.38a2ec0b.css",
-    "static/js/main.86eecf43.js"
+    "static/js/main.3f13fade.js"
   ]
 }
