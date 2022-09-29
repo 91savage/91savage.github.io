@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.38a2ec0b.css",
-    "main.js": "/static/js/main.898ca848.js",
+    "main.js": "/static/js/main.9353d9c1.js",
+    "static/media/gallaxy5.png": "/static/media/gallaxy5.96dcb72f76c3f8b7abe1.png",
     "static/media/blackhole.jpg": "/static/media/blackhole.dd3459c20eb504701ea0.jpg",
     "static/media/teamBg.mp4": "/static/media/teamBg.80115b28939e7469d2e4.mp4",
     "static/media/gallaxy2.png": "/static/media/gallaxy2.c82d1d98f0d112649204.png",
+    "static/media/gallaxy4.png": "/static/media/gallaxy4.fe31cc44f5d30aaaa9a7.png",
     "static/media/goxo_sing.jpg": "/static/media/goxo_sing.3725600236202ec546e6.jpg",
     "static/media/gallaxy1.png": "/static/media/gallaxy1.a3047eacdb640177fc6e.png",
     "static/media/goxo_orange.jpg": "/static/media/goxo_orange.b37493459558273f02ee.jpg",
@@ -43,10 +45,10 @@
     "static/media/carwheel.svg": "/static/media/carwheel.85bca6d44c3b12f22e4e5909784f1daa.svg",
     "index.html": "/index.html",
     "main.38a2ec0b.css.map": "/static/css/main.38a2ec0b.css.map",
-    "main.898ca848.js.map": "/static/js/main.898ca848.js.map"
+    "main.9353d9c1.js.map": "/static/js/main.9353d9c1.js.map"
   },
   "entrypoints": [
     "static/css/main.38a2ec0b.css",
-    "static/js/main.898ca848.js"
+    "static/js/main.9353d9c1.js"
   ]
 }
